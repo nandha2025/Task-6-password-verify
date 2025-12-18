@@ -1,0 +1,7 @@
+Strength assessment:
+Length: It is 20 characters long, which is above the commonly recommended 12–16 character minimum and greatly increases resistance to brute‑force guessing by expanding the total possible combinations an attacker must try 
+Character variety: It includes lowercase letters, uppercase letters and numbers, which increases the character set size and therefore the entropy compared to all‑lowercase words
+It is made of meaningful English words with a number inserted (elevate, At, 26, Is, Strong), so pattern‑based or hybrid dictionary attacks that combine common words plus digits may still have an advantage compared to attacking a fully random 20‑character string
+Advantages of this password:
+High brute‑force resistance: The long length plus mixed character types means a classical brute‑force attack (trying every possible combination) would require far more time and computing power than for typical 8–10 character passwords
+Good memorability: Because it reads like a simple sentence (“elevate at 26 is strong”), it behaves like a passphrase, which tends to be easier to remember while still offering strong protection when long enough and not a common phrase
